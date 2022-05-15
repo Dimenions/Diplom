@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SSU.Coins.BLL.Interface/1.0.0": {
+        "dependencies": {
+          "SSU.Coins.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SSU.Coins.BLL.Interface.dll": {}
+        }
+      },
+      "SSU.Coins.Entities/1.0.0": {
+        "runtime": {
+          "SSU.Coins.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SSU.Coins.BLL.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SSU.Coins.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

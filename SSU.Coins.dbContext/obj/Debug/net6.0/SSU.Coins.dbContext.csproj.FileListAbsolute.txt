@@ -1,0 +1,17 @@
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\bin\Debug\net6.0\SSU.Coins.dbContext.deps.json
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\bin\Debug\net6.0\SSU.Coins.dbContext.dll
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\bin\Debug\net6.0\SSU.Coins.dbContext.pdb
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\obj\Debug\net6.0\SSU.Coins.dbContext.csproj.AssemblyReference.cache
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\obj\Debug\net6.0\SSU.Coins.dbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\obj\Debug\net6.0\SSU.Coins.dbContext.AssemblyInfoInputs.cache
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\obj\Debug\net6.0\SSU.Coins.dbContext.AssemblyInfo.cs
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\obj\Debug\net6.0\SSU.Coins.dbContext.csproj.CoreCompileInputs.cache
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\obj\Debug\net6.0\SSU.Coins.dbContext.dll
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\obj\Debug\net6.0\refint\SSU.Coins.dbContext.dll
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\obj\Debug\net6.0\SSU.Coins.dbContext.pdb
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\obj\Debug\net6.0\ref\SSU.Coins.dbContext.dll
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\bin\Debug\net6.0\SSU.Coins.dbContext.runtimeconfig.json
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\obj\Debug\net6.0\SSU.Coins.dbContext.genruntimeconfig.cache
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\bin\Debug\net6.0\SSU.Coins.Entities.dll
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\bin\Debug\net6.0\SSU.Coins.Entities.pdb
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.dbContext\obj\Debug\net6.0\SSU.Coins.dbContext.csproj.CopyComplete

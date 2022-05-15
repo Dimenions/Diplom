@@ -1,0 +1,12 @@
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Excecption\bin\Debug\net6.0\SSU.Coins.Excecption.deps.json
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Excecption\bin\Debug\net6.0\SSU.Coins.Excecption.dll
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Excecption\bin\Debug\net6.0\SSU.Coins.Excecption.pdb
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Excecption\obj\Debug\net6.0\SSU.Coins.Excecption.csproj.AssemblyReference.cache
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Excecption\obj\Debug\net6.0\SSU.Coins.Excecption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Excecption\obj\Debug\net6.0\SSU.Coins.Excecption.AssemblyInfoInputs.cache
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Excecption\obj\Debug\net6.0\SSU.Coins.Excecption.AssemblyInfo.cs
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Excecption\obj\Debug\net6.0\SSU.Coins.Excecption.csproj.CoreCompileInputs.cache
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Excecption\obj\Debug\net6.0\SSU.Coins.Excecption.dll
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Excecption\obj\Debug\net6.0\refint\SSU.Coins.Excecption.dll
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Excecption\obj\Debug\net6.0\SSU.Coins.Excecption.pdb
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Excecption\obj\Debug\net6.0\ref\SSU.Coins.Excecption.dll

@@ -1,0 +1,12 @@
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Entities\bin\Debug\net6.0\SSU.Coins.Entities.deps.json
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Entities\bin\Debug\net6.0\SSU.Coins.Entities.dll
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Entities\bin\Debug\net6.0\SSU.Coins.Entities.pdb
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Entities\obj\Debug\net6.0\SSU.Coins.Entities.csproj.AssemblyReference.cache
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Entities\obj\Debug\net6.0\SSU.Coins.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Entities\obj\Debug\net6.0\SSU.Coins.Entities.AssemblyInfoInputs.cache
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Entities\obj\Debug\net6.0\SSU.Coins.Entities.AssemblyInfo.cs
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Entities\obj\Debug\net6.0\SSU.Coins.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Entities\obj\Debug\net6.0\SSU.Coins.Entities.dll
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Entities\obj\Debug\net6.0\refint\SSU.Coins.Entities.dll
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Entities\obj\Debug\net6.0\SSU.Coins.Entities.pdb
+C:\Users\Dimenions\source\repos\SUU.Coin.Web\SSU.Coins.Entities\obj\Debug\net6.0\ref\SSU.Coins.Entities.dll
